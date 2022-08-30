@@ -1,5 +1,4 @@
-# gradient-descent-from-scratch
-Implementation of gradient descent from scratch along with newton method.
+# Implementation of gradient descent from scratch along with newton method.
 
 Problem statement:
 
